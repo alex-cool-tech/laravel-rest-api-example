@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fca7a2ba-c324-4c26-bcd6-11c71d5e29c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/laradock/.github/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/.github/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/.github/README-zh.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/.github/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/.github/home-page-images/laradock-logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/.gitlab-ci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/content/contributing/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/content/documentation/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/content/getting-started/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/content/guides/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/content/help/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/content/introduction/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/content/license/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/content/related-projects/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/static/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/archetypes/default.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/layouts/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/layouts/_default/__list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/layouts/_default/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/layouts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/layouts/partials/drawer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/layouts/partials/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/layouts/partials/footer_js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/layouts/partials/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/layouts/partials/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/layouts/partials/nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/layouts/partials/nav_link.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/layouts/shortcodes/note.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/layouts/shortcodes/warning.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/fonts/icon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/fonts/icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/fonts/icon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/fonts/icon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/Connection.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/ConnectionData.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/ConnectionSSH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/ConnectionSSHAuth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/Session.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/Terminal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/TerminalKeyboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/TerminalShell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/Window.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/KiTTY/WindowAppearance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/DebugRemoteOn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/RemoteDebuggingSuccess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/RemoteHost.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/RemoteTestDebuggingSuccess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/RemoteWebDebuggingSuccess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/BuildDeploymentConnection.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/BuildDeploymentConnectionMappings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/BuildDeploymentDebugger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/EditRunConfigurationRemoteExampleTestDebug.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/EditRunConfigurationRemoteWebDebug.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/LangsPHPDebug.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/LangsPHPInterpreters.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/LangsPHPPHPUnit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/LangsPHPServers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/WindowsFirewallAllowedApps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/WindowsHyperVManager.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/Settings/hosts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/linux/configuration/debugConfiguration.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/PHPStorm/linux/configuration/serverConfiguration.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/images/photos/SimpleHostsEditor/AddHost_laravel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/javascripts/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/javascripts/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/stylesheets/application.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/stylesheets/highlight/highlight.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/stylesheets/palettes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/static/stylesheets/temporary.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/DOCUMENTATION/themes/hugo-material-docs/theme.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/docker-compose.sync.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/laradock/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/docker-sync.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/sync.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laradock/travis-build.sh" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-226">
+              <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+              <folding>
+                <element signature="e#23#63#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env.example">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>docker-in-docker</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/laradock/docker-compose.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="468" />
+    <option name="y" value="60" />
+    <option name="width" value="910" />
+    <option name="height" value="512" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="laravel-rest-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel-rest-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fca7a2ba-c324-4c26-bcd6-11c71d5e29c4" name="Default Changelist" comment="" />
+      <created>1555178327568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555178327568</updated>
+      <workItem from="1555178329512" duration="4058000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4058000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-1" width="1368" height="770" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" weight="0.32899022" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49924242" visible="true" weight="0.3306189" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5007576" side_tool="true" weight="0.3306189" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-226">
+          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+          <folding>
+            <element signature="e#23#63#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.example">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laradock/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/console.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laradock/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15510">
+          <caret line="1034" column="12" lean-forward="true" selection-start-line="1034" selection-start-column="12" selection-end-line="1034" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
