@@ -49,7 +49,7 @@ class AuthService
      *
      * @return JsonResponse
      */
-    public function login(LoginRequest $request)
+    public function login(LoginRequest $request): JsonResponse
     {
         $credentials = $request->only(['email', 'password']);
 
@@ -65,7 +65,7 @@ class AuthService
      *
      * @return JsonResponse
      */
-    public function register(RegisterRequest $request)
+    public function register(RegisterRequest $request): JsonResponse
     {
         $user = $this->user->create([
             'email' => $request->email,
@@ -85,7 +85,7 @@ class AuthService
      *
      * @return JsonResponse
      */
-    private function respondWithToken(string $token)
+    private function respondWithToken(string $token): JsonResponse
     {
         return $this->responseFactory->json([
             'access_token' => $token,
