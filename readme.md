@@ -9,7 +9,10 @@
 * run server internal: `php artisan serve`
 
 ### Docker
-You can run application through Docker (Laradock)
+You can run application through Docker (Laradock).
+
+If *Laradock* was installed in project root:
+
 * move to *laradock* folder
 * run `docker-compose up -d --build nginx mysql workspace`
 * edit app & laradock *.env* files
