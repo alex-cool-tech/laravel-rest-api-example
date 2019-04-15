@@ -9,6 +9,7 @@
 * run server internal: `php artisan serve`
 
 ### Docker
+
 You can run application through Docker (Laradock).
 
 If *Laradock* was installed in project root:
@@ -17,3 +18,7 @@ If *Laradock* was installed in project root:
 * run `docker-compose up -d --build nginx mysql workspace`
 * edit app & laradock *.env* files
 * run commands: `docker-compose exec --user=laradock workspace *command*`
+
+### Tests
+
+You can run tests with the command `./vendor/bin/phpunit` (local) in root folder or `phpunit` (global)
